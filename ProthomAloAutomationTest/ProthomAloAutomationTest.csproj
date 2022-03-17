@@ -18,8 +18,6 @@
 
   <ItemGroup>
     <Folder Include="Aggregates\" />
-    <Folder Include="Tests\" />
-    <Folder Include="Pages\" />
   </ItemGroup>
 
 </Project>
