@@ -99,3 +99,4 @@ C:\Users\Protik\source\repos\ProthomAloAutomationTest\ProthomAloAutomationTest\o
 C:\Users\Protik\source\repos\ProthomAloAutomationTest\ProthomAloAutomationTest\obj\Debug\netcoreapp3.1\ProthomAloAutomationTest.genruntimeconfig.cache
 C:\Users\Protik\source\repos\ProthomAloAutomationTest\ProthomAloAutomationTest\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Users\Protik\source\repos\ProthomAloAutomationTest\ProthomAloAutomationTest\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Protik\source\repos\ProthomAloAutomationTest\ProthomAloAutomationTest\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll

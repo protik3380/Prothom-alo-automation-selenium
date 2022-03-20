@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0xh50MA16iut6NzIDEOIdX5hiuWF+N73++ZUsea5xPeH4V8LE2y+N/apN5RUmBed1tpB0RSUUW5bp8JR9grT3A==",
+  "dgSpecHash": "DIN7KjuYbKdPDA10nr900IuEXzcGV9hFj5kgep8jgOyC/SQ/RJzmo0mJTDdWM2cF2kTN+llvdk17gtsOiGRXBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Protik\\source\\repos\\ProthomAloAutomationTest\\ProthomAloAutomationTest\\ProthomAloAutomationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Protik\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Protik\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
     "C:\\Users\\Protik\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\Protik\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\Protik\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
