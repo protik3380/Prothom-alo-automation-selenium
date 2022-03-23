@@ -27,5 +27,11 @@ namespace ProthomAloAutomationTest.Tests
                 Console.WriteLine(e);
             }
         }
+
+        [TearDown]
+        public void CloseBrowser()
+        {
+            Driver.Quit();
+        }
     }
 }
